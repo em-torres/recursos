@@ -39,7 +39,7 @@ class DrCitySeeder extends Seeder
             ['name' => 'Monte Plata', 'code' => 'MP', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             ['name' => 'Pedernales', 'code' => 'PED', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             ['name' => 'Peravia', 'code' => 'PER', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
-            ['name' => 'Puerto Plata', 'code' => 'PP', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
+            ['name' => 'Puerto Plata', 'code' => 'POP', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             ['name' => 'Samana', 'code' => 'SAM', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             ['name' => 'Sanchez Ramirez', 'code' => 'SRA', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             ['name' => 'San Cristobal', 'code' => 'SC', 'countries_id' => 65, 'created_at' => $actual_date, 'updated_at' => $actual_date ],
