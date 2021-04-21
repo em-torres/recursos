@@ -17,7 +17,6 @@ class CountrySeeder extends Seeder
         $actual_date = now();
         $countries = [
             [ 'iso' => 'AF', 'name' => 'Afganistán', 'created_at' => $actual_date, 'updated_at' => $actual_date ],
-            [ 'iso' => 'AF', 'name' => 'Afganistán', 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             [ 'iso' => 'AX', 'name' => 'Islas Gland', 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             [ 'iso' => 'AL', 'name' => 'Albania', 'created_at' => $actual_date, 'updated_at' => $actual_date ],
             [ 'iso' => 'DE', 'name' => 'Alemania', 'created_at' => $actual_date, 'updated_at' => $actual_date ],
